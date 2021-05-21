@@ -1,1 +1,5 @@
-asdasd
+<<<<<<< HEAD
+asdasdeesdad
+=======
+asdasdee
+>>>>>>> feature2
